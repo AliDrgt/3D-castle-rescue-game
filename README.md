@@ -31,17 +31,17 @@ This project is a 3D game developed using OpenGL. The aim of the game is to cont
 ## Controls
 
 ### Camera Controls
-- `f` - Move camera forward
-- `b` - Move camera backward
-- `r` - Turn camera right
-- `l` - Turn camera left
+- `y` - Move camera forward
+- `h` - Move camera backward
+- `j` - Turn camera right
+- `g` - Turn camera left
 
 ### Knight Controls
 - `w` - Move forward
 - `s` - Move backward
 - `a` - Move left
 - `d` - Move right
-- `j` - Jump
+- `e` - Jump
 
 ### Game Controls
 - `1` - Day (sunshine)
