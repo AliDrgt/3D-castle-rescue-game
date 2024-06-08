@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is a 3D game developed using OpenGL. The aim of the game is to control a knight, navigate through a castle, defeat a dragon, and rescue a princess. The game demonstrates the use of 3D graphics, object transformations, textures, lighting effects, and collision detection.
+This project is a 3D game developed using OpenGL and C++. The aim of the game is to control a knight, navigate through a castle, defeat a dragon, and rescue a princess. The game demonstrates the use of 3D graphics, object transformations, textures, lighting effects, and collision detection.
+
 
 
 ## Project Structure
