@@ -50,7 +50,11 @@ This project is a 3D game developed using OpenGL. The aim of the game is to cont
 
 ## Example Screenshots
 
-*Include screenshots of your game here to visually showcase the scene and gameplay.*
+![image](https://github.com/AliDrgt/3D-castle-rescue-game/assets/58707793/f3c98a2f-0605-4fdb-b375-69edc909ff34)
+![image](https://github.com/AliDrgt/3D-castle-rescue-game/assets/58707793/609ccd4d-aabb-46c3-9504-d49b51468367)
+![image](https://github.com/AliDrgt/3D-castle-rescue-game/assets/58707793/e00d1862-3d96-4ab5-b8e0-4c5b985e8be0)
+![image](https://github.com/AliDrgt/3D-castle-rescue-game/assets/58707793/f951d6f8-bdf5-4f1f-96d3-7aa0539548d2)
+
 
 ## Acknowledgments
 
